@@ -12,9 +12,9 @@ djksje
 djnsjd
 """
 
-print("hello",end=(","))#
-print("i am nidhish")
+print("hello",end=(","))#end is use to connect with the second line
+print("i am nidhish") 
 
-print("hello","i am nidhish")
+print("hello","i am nidhish") #here , is use to connect the sentence
 
-print("hello \n  i am nidhish \t 1")
+print("hello \n  i am nidhish \t 1") #\n is use to print the second line and \t is use for tab
