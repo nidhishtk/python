@@ -7,9 +7,9 @@ Created on Sun Jul 12 01:25:37 2020
 
 
 print("Enter your first number")
-n1=input()
- 
-
+n1=int(input())
 print("Enter your second number")
-n2=input()
-print("total sum",int(n1)*int(n2))
+n2 =int(input())
+mul =n1*n2
+print("total sum",mul)
+print("End")
